@@ -20,7 +20,7 @@ We have arround 150+ electrical appliances in house, including open unused socke
 
 *Every appliance* in the house can be controlled via voice / remotely / automation.
 
-We also want to solution to be
+We also want the solution to be
 - Extremely customizable
 - Affordable
 - Easy to install
@@ -30,11 +30,12 @@ We also want to solution to be
 
 ## The Solution
 ### Hardware
-#### 1 Control Module
-#### 2 Control Module
-#### Processor Module
+#### **1 Control Module**
+
+#### **2 Control Module**
+#### **Processor Module**
 
 ### Software
-#### Installation
-#### Appliance Replacement (Modification)
-#### Alexa Integration
+#### **Installation**
+#### **Appliance Replacement (Modification)**
+#### **Alexa Integration**
