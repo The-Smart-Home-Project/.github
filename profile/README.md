@@ -17,9 +17,6 @@ We have arround 150+ electrical appliances in house, including open unused socke
 
 
 ## Mission
-We want to laze 😪
-
-Let the house handle itself.
 
 *Every appliance* in the house can be controlled via voice / remotely / automation.
 
